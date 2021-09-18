@@ -1,7 +1,7 @@
 {
-  "name": "bocchibot",
+  "name": "Piyush Api",
   "version": "1.0.0",
-  "description": "BocchiBot is a multipurpose WhatsApp bot.",
+  "description": "Piyush Api Is Web Rest Api",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -9,7 +9,7 @@
   "author": "SlavyanDesu",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SlavyanDesu/BocchiBot.git"
+    "url": "https://github.com/piyushraj00/piyush-api.git"
   },
   "bugs": {
     "url": "https://github.com/SlavyanDesu/BocchiBot/issues"
